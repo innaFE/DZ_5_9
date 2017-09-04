@@ -1,0 +1,39 @@
+.backgraund{
+    height: 450px;
+    width: 550px;
+    background-color: #80cdc6;
+    position: absolute;
+}
+
+.clouds{
+    width: 340px;
+    height: 160px;
+	position: absolute;
+	right:10px;
+}
+
+
+
+.world{
+  width: 550px;
+	position: absolute;
+	z-index: 2; 
+	margin-top: 100px;
+}
+
+.water{
+    width: 550px;
+	position: absolute;
+	z-index: 4;
+	top: 403px;
+
+}
+
+.wooden_ship{
+    height: 105px;
+    width: 117px;
+	position: absolute;
+	z-index: 3;
+	bottom: 40px;
+	left: 20px;
+}
