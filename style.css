@@ -4,13 +4,14 @@
     background-color: #80cdc6;
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 }
 
 .clouds{
     width: 340px;
     height: 160px;
 	position: absolute;
-	right:410px;
+	right:10px;
 }
 
 
@@ -35,6 +36,6 @@
     width: 117px;
 	position: absolute;
 	z-index: 3;
-	bottom: 250px;
-	left: 425px;
+	bottom: 50px;
+	left: 25px;
 }
